@@ -13,10 +13,10 @@ The objective of this project is to understand how network traffic is represente
 - Socket Module
 
 **Features**
-1.Captures network packets
-2.Displays Source IP address
-3.Displays Destination IP address
-4.Displays packet size
-5.Identifies TCP, UDP, and ICMP protocols
-6.Displays TCP/UDP source and destination ports
-7.Attempts to resolve IP addresses to hostnames
+- 1.Captures network packets
+- 2.Displays Source IP address
+- 3.Displays Destination IP address
+- 4.Displays packet size
+- 5.Identifies TCP, UDP, and ICMP protocols
+- 6.Displays TCP/UDP source and destination ports
+- 7.Attempts to resolve IP addresses to hostnames
