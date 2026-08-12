@@ -12,7 +12,7 @@ The objective of this project is to understand how network traffic is represente
 2.Scapy
 3.Socket Module
 
-**Feautures**
+**Features**
 1.Captures network packets
 2.Displays Source IP address
 3.Displays Destination IP address
