@@ -31,3 +31,17 @@ The program Checks whether the packets contains an IP layer and then extracts:
 - Hostname
 - Protocol
 - Source and destination ports for TCP/UDP packets
+
+  ## How to Install
+
+Before running the Network Packet Analyzer, make sure Python is installed on your system. Python is required to execute the program and Scapy is used for capturing and analyzing network packets.
+
+### Step 1: Install Python
+
+Download and install Python from the official Python website. During installation, make sure to enable the **"Add Python to PATH"** option.
+
+### Step 2: Install Scapy
+
+Open Command Prompt or Terminal in you system and install the Scapy library using:
+```bash
+**pip install scapy**
