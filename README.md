@@ -8,9 +8,9 @@ displays basic information about each packets.
 The objective of this project is to understand how network traffic is represented and learn how to capture and analyze basic packets.
 
 ## Technologies Used
-1.Python
-2.Scapy
-3.Socket Module
+-Python
+-Scapy
+-Socket Module
 
 **Features**
 1.Captures network packets
