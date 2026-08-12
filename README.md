@@ -45,3 +45,13 @@ Download and install Python from the official Python website. During installatio
 Open Command Prompt or Terminal in you system and install the Scapy library using:
 ```bash
 **pip install scapy**
+
+## How to run
+After installing Python and Scapy, download or clone this repository to your system.
+
+Open the project folder in Command Prompt, Terminal, or VS Code.
+
+Run the Python program using:
+
+```bash
+python network_sniffer.py
