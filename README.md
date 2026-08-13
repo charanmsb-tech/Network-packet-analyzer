@@ -58,7 +58,7 @@ Run the Python program using:
 python network_sniffer.py
 ```
 
-## Sample Outputs :##
+## Sample Outputs : ##
 ```text
 Source IP: 192.168.1.33 ( Charan.hgu_lan )
 Destination IP: 8.8.8.8 ( dns.google )
