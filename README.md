@@ -45,8 +45,9 @@ Download and install Python from the official Python website. During installatio
 Open Command Prompt or Terminal in you system and install the Scapy library using:
 ```bash
 **pip install scapy**
+```
 
-## How to run
+## How to run ##
 After installing Python and Scapy, download or clone this repository to your system.
 
 Open the project folder in Command Prompt, Terminal, or VS Code.
@@ -55,7 +56,23 @@ Run the Python program using:
 
 ```bash
 python network_sniffer.py
+```
+
+## Sample Outputs ##
+Source IP: 192.168.1.33 ( Charan.hgu_lan )
+Destination IP: 8.8.8.8 ( dns.google )
+Packet Size: 88 bytes
+Protocol: UDP
+Source Port: 65082
+Destination Port: 53
+
+## What I Learned ##
+Through this project, I learned the basics of network packet capturing and analysis using python and scapy
+
+I learned how to identify source and destination IP addresses, and Destination addresses, packet size, network protocols 
+such as TCP, UDP, and ICMP and Source and destination ports.
+
+I also learned how to use Python Variables, Functions, Conditions, `try/except`, and Scapy's `sniff ()` functions.
 
 
-## how to Run ##
 
