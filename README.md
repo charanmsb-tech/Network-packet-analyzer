@@ -76,5 +76,11 @@ such as TCP, UDP, and ICMP and Source and destination ports.
 
 I also learned how to use Python Variables, Functions, Conditions, `try/except`, and Scapy's `sniff ()` functions.
 
+## ## Conclusion:
+
+The Basic Network Sniffer was successfully developed using Python and Scapy. The program can capture network packets and display important packet information such as IP addresses, packet size, protocols, and port numbers.
+
+This project helped me understand the basic concepts of network traffic and packet analysis.
+
 
 
