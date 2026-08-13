@@ -58,13 +58,15 @@ Run the Python program using:
 python network_sniffer.py
 ```
 
-## Sample Outputs ##
+## Sample Outputs :##
+```text
 Source IP: 192.168.1.33 ( Charan.hgu_lan )
 Destination IP: 8.8.8.8 ( dns.google )
 Packet Size: 88 bytes
 Protocol: UDP
 Source Port: 65082
 Destination Port: 53
+```
 
 ## What I Learned ##
 Through this project, I learned the basics of network packet capturing and analysis using python and scapy
